@@ -1,0 +1,15 @@
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task013\obj\Debug\net6.0\Task013.csproj.AssemblyReference.cache
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task013\obj\Debug\net6.0\Task013.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task013\obj\Debug\net6.0\Task013.AssemblyInfoInputs.cache
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task013\obj\Debug\net6.0\Task013.AssemblyInfo.cs
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task013\obj\Debug\net6.0\Task013.csproj.CoreCompileInputs.cache
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task013\bin\Debug\net6.0\Task013.exe
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task013\bin\Debug\net6.0\Task013.deps.json
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task013\bin\Debug\net6.0\Task013.runtimeconfig.json
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task013\bin\Debug\net6.0\Task013.dll
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task013\bin\Debug\net6.0\Task013.pdb
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task013\obj\Debug\net6.0\Task013.dll
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task013\obj\Debug\net6.0\refint\Task013.dll
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task013\obj\Debug\net6.0\Task013.pdb
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task013\obj\Debug\net6.0\Task013.genruntimeconfig.cache
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task013\obj\Debug\net6.0\ref\Task013.dll
