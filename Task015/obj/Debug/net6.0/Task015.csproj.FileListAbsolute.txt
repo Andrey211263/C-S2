@@ -1,0 +1,15 @@
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task015\bin\Debug\net6.0\Task015.exe
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task015\bin\Debug\net6.0\Task015.deps.json
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task015\bin\Debug\net6.0\Task015.runtimeconfig.json
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task015\bin\Debug\net6.0\Task015.dll
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task015\bin\Debug\net6.0\Task015.pdb
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task015\obj\Debug\net6.0\Task015.csproj.AssemblyReference.cache
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task015\obj\Debug\net6.0\Task015.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task015\obj\Debug\net6.0\Task015.AssemblyInfoInputs.cache
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task015\obj\Debug\net6.0\Task015.AssemblyInfo.cs
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task015\obj\Debug\net6.0\Task015.csproj.CoreCompileInputs.cache
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task015\obj\Debug\net6.0\Task015.dll
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task015\obj\Debug\net6.0\refint\Task015.dll
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task015\obj\Debug\net6.0\Task015.pdb
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task015\obj\Debug\net6.0\Task015.genruntimeconfig.cache
+G:\Мои документы\Home\Обучение\Домашние задания\2408_2022\Task015\obj\Debug\net6.0\ref\Task015.dll
