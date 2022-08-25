@@ -7,5 +7,5 @@ if ((number % 7 == 0) && (number % 23 == 0))
     Console.Write("Число кратно 7 и 23");
 else
 {
-    Console.Write("Нет");
+    Console.Write("Не кратно 7 и 23");
 }
